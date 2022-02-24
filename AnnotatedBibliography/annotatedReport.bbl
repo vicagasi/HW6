@@ -1,0 +1,57 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{wired.com}
+M.~Burgess, ``These parents built a school app. then the city called the
+  cops,'' online, November 2021,
+  \url{https://www.wired.com/story/sweden-stockholm-school-app-open-source/}.
+ \begin{quotation}\noindent City did not have a viable alternative to the Open
+  School Platform, yet still was angry at the parents for hacing their own
+  usable version. "The police report, shared with WIRED by Landgren, references
+  the Certezza security review, which was commissioned by the city and
+  completed on February 17, 2021. The review concluded that the open source app
+  wasn’t sending any sensitive information to third parties and didn’t pose
+  a threat to users. The police report went further in clearing the Öppna
+  Skolplattformen developers. 'All information that Öppna Skolplattformen has
+  used is public information that the City of Stockholm voluntarily
+  distributed,' it said." \end{quotation}
+
+\bibitem{haraway2003companion}
+D.~J. Haraway, \emph{The companion species manifesto: Dogs, people, and
+  significant otherness}.\hskip 1em plus 0.5em minus 0.4em\relax Prickly
+  Paradigm Press Chicago, 2003, vol.~1.
+ \begin{quotation}\noindent Something else useful about dogs? Make sure to read
+  what you cite... \end{quotation}
+
+\bibitem{kane1969dynamical}
+T.~Kane and M.~Scher, ``A dynamical explanation of the falling cat
+  phenomenon,'' \emph{International Journal of Solids and Structures}, vol.~5,
+  no.~7, pp. 663--670, 1969.
+ \begin{quotation}\noindent Falling cat experiments! Totally like 2 hinged
+  boxes... \end{quotation}
+
+\bibitem{CatBook}
+F.~Marciuliano, \emph{I Could Pee on This: And Other Poems by Cats},
+  1st~ed.\hskip 1em plus 0.5em minus 0.4em\relax Chronicle Books, August 2015.
+ \begin{quotation}\noindent Vitally important topic for today's debate, points
+  being made: \begin{itemize} \item cats pee on things \item cats are picky
+  \item if they pee on your things, yay? \end{itemize} \end{quotation}
+
+\end{thebibliography}
